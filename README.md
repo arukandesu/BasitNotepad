@@ -1,4 +1,4 @@
-#✨ Özellikler
+#✨ Özellikler#
 Yeni Belge Oluşturma: Metin alanını temizleyerek yeni bir belge başlatır.
 
 Dosya Açma: Kullanıcının seçtiği .txt uzantılı veya diğer tüm dosya türlerini açabilir.
@@ -11,7 +11,7 @@ Farklı Kaydetme: Belgeyi kullanıcının belirlediği yeni bir isim ve yolla ka
 
 Başlık Güncelleme: Açılan veya kaydedilen dosyanın adını uygulamanın başlığında gösterir.
 
-#⚙️ Uygulanan Temel Konseptler
+#⚙️ Uygulanan Temel Konseptler#
 Bu proje, NTP dersi kapsamında aşağıdaki temel C# ve Windows Forms konseptlerini uygulamaktadır:
 
 Sınıflar ve Nesneler: Form1 sınıfının oluşturulması.
@@ -28,7 +28,7 @@ Hata Yönetimi: Dosya işlemlerinde oluşabilecek hataları yakalamak için try-
 
 Kullanıcı Arayüzü Bileşenleri: MenuStrip, ToolStripMenuItem, RichTextBox ve MessageBox kullanımı.
 
-#🚀 Başlatma
+#🚀 Başlatma#
 Projeyi indirin ve Visual Studio ile açın.
 
 Çözümü derleyin.
